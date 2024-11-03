@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/BatEnemy.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/CharacterELEFT.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/CharacterERIGHT.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/CharacterEUP.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/CharacterJDOWN.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/CharacterJLEFT.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/CharacterJRIGHT.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/CharacterJUP.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/Coffee.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/FloatingHeadEnemyDOWN.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/FloatingHeadEnemyLEFT.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/FloatingHeadEnemyRIGHT.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/FloatingHeadEnemyUP.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/RobotEnemyDOWN.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/RobotEnemyLEFT.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/RobotEnemyRIGHT.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/RobotEnemyUP.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/RockEnemyDOWN.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/RockEnemyLEFT.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/RockEnemyRIGHT.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/RockEnemyUP.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Animations/Smoke.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Backgrounds/BlackPanel.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Backgrounds/BlueWall.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Backgrounds/GreyWall.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Fonts/GameFont.spritefont</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Fonts/MenuFont.spritefont</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Fonts/TitleFont.spritefont</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Music/Faint glow.mp3</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Music/Journey of the prairie king.mp3</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Music/Omori title.mp3</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Music/Purrfect apawcalypse.mp3</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Music/See you tomorrow.mp3</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Music/The score.mp3</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Music/Whitespace.mp3</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Music/Worlds end valentine.mp3</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sounds/Bow.wav</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sounds/Gun.wav</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sounds/Metal.wav</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sounds/Sand.wav</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/3Bullets.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/Boot.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/BrokenHeart.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/Bubble.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/Clock.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/DownArrow.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/Heart.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/Ints1.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/Ints2.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/IntsOFF.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/IntsON.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/Logo.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/MenuOFF.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/MenuON.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/MetalBullet.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/RedBullet.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/RetryOFF.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/RetryON.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/Shield.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/Star.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/StartOFF.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/StartON.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/Stone1.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/Stone2.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/Stone3.png</File>
+    <File>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sprites/WoodBullet.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Fonts/TitleFont.spritefont</SourceFile>
+  <SourceTime>2018-10-08T06:35:14-04:00</SourceTime>
+  <DestFile>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/bin/DesktopGL/Fonts/TitleFont.xnb</DestFile>
+  <DestTime>2022-06-21T17:29:10-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

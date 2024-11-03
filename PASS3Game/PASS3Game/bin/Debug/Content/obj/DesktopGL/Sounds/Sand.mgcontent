@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/Sounds/Sand.wav</SourceFile>
+  <SourceTime>2022-06-20T17:59:16-04:00</SourceTime>
+  <DestFile>F:/ICS3/Assignments/PASS3/PASS3Game/PASS3Game/bin/Debug/Content/bin/DesktopGL/Sounds/Sand.xnb</DestFile>
+  <DestTime>2022-06-21T17:31:00-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
